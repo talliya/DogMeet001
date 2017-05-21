@@ -15,8 +15,6 @@
 
 <body>
 
-<a data-role="button" data-icon="fa-search" href="http://goo.gl/maps/tFvMA" onclick="window.open(this.href,'_system'); return false;">Get Directions</a>
-
 <a href="http://dogmeet.prv.pl/dogsite/add_dog/adddog.html" class="ui-btn ui-btn-inline ui-corner-all ui-shadow">Login</a><br>
 
 	<a href="http://dogmeet.prv.pl/login/login.html" class="ui-btn ui-btn-inline ui-corner-all ui-shadow">Login</a><br>
