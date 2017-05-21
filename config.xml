@@ -6,8 +6,9 @@
     
 <icon src="icon.png" platform="android" width="180" height="180" />
 
-<splash src="splash.png" platform="android" width="320" height="480" />
-  <name>DogTest</name>
+<gap:splash src="splash.png" platform="android" width="320" height="480" />
+
+ <name>DogTest</name>
 
   <description>
       Dog test app
