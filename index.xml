@@ -1,12 +1,6 @@
 <!DOCTYPE html>
 <html>
 	<head>
-
-<preference name="stay-in-webview" value="false" />
-<gap:plugin name="org.apache.cordova.inappbrowser" />
-<gap:plugin name="org.apache.cordova.geolocation" />
-<script src="script/cordova.js"></script>
-
 		<title>Registration Form: jQuery</title>
 		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
 		<script src="http://dogmeet.prv.pl/script/pgb.js"></script>
@@ -27,7 +21,7 @@
 
 	<a href="http://dogmeet.prv.pl/login/login.html" class="ui-btn ui-btn-inline ui-corner-all ui-shadow">Login</a><br>
 	<a href="http://dogmeet.prv.pl/register/register.html" class="ui-btn ui-btn-inline ui-corner-all ui-shadow">Register</a>
-
+<a onclick="navigator.app.loadUrl('https://google.com/', { openExternal:true });">Link</a>
 
 </body>
 </html>
