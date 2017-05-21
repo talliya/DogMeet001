@@ -7,14 +7,6 @@
 <icon src="icon.png" platform="android" width="180" height="180" />
 <splash src="splash.png" platform="android" />
 
-<platform name="android">
-        <feature name="SplashScreen">
-                <splash src="splash.png" platform="android" width="320" height="480" />
-                <param name="android-package" value="org.apache.cordova.splashscreen.SplashScreen"/>
-                <param name="onload" value="true"/>
-        </feature>
-</platform>
-
 <access origin="*" />         
 
 
