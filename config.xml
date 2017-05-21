@@ -3,3 +3,12 @@
 <icon src="http://dogmeet.prv.pl/images/dogmeeticon.jpg" platform="android" width="180" height="180" />
 
 <splash src="http://dogmeet.prv.pl/images/dogmeetscreen.jpg" platform="android" width="320" height="480" />
+  <name>DogTest</name>
+
+  <description>
+      Dog test app
+  </description>
+
+  <author >
+     Nata Test
+  </author>
