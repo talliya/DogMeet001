@@ -3,7 +3,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.phonegap.helloworld"
         version   = "1.0.0">
-<DogMeet>    
+ 
 <icon src="icon.png" platform="android" width="180" height="180" />
 
 <gap:splash src="splash.png" platform="android" width="320" height="480" />
@@ -17,4 +17,4 @@
   <author >
      Nata Test
   </author>
-</DogMeet>
+</widget>
