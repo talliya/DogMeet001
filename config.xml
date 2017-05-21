@@ -6,7 +6,7 @@
  
 <icon src="icon.png" platform="android" width="180" height="180" />
 
-<gap:splash src="splash.png" platform="android" width="320" height="480" />
+<splash src="splash.png" platform="android" width="320" height="480" />
 
  <name>DogTest</name>
 
