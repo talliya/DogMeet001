@@ -5,6 +5,7 @@
         version   = "1.0.0">
  
 <icon src="icon.png" platform="android" width="180" height="180" />
+<splash src="splash.png" platform="android" />
 
 <platform name="android">
         <feature name="SplashScreen">
@@ -14,7 +15,7 @@
         </feature>
 </platform>
 
-        
+<access origin="*" />         
 
 
  <name>DogTest</name>
