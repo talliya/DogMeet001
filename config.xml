@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.phonegap.helloworld"
+        version   = "1.0.0">
     
-<icon src="http://dogmeet.prv.pl/images/dogmeeticon.jpg" platform="android" width="180" height="180" />
+<icon src="icon.png" platform="android" width="180" height="180" />
 
-<splash src="http://dogmeet.prv.pl/images/dogmeetscreen.jpg" platform="android" width="320" height="480" />
+<splash src="splash.png" platform="android" width="320" height="480" />
   <name>DogTest</name>
 
   <description>
